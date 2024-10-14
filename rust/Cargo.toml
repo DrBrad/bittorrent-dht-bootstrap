@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-kad4 = { path = "/home/brad/CLionProjects/rKad4" }
+kad4 = { path = "libs/rKad4" }
 libc = "0.2.155"
